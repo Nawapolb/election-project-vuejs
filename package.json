@@ -26,7 +26,7 @@
     },
     "dependencies": {
         "aos": "^3.0.0-beta.6",
-        "apexcharts": "^3.6.7",
+        "apexcharts": "^3.24.0",
         "chart.js": "^2.8.0",
         "sweetalert2": "^8.8.5",
         "vee-validate": "^2.2.0",
